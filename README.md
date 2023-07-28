@@ -1,4 +1,4 @@
-![logo] (https://github.com/tanjil98/tanjil98/blob/main/software%20engineer.png)
+
 
 <h1 align="center">Hi 👋, I'm Tanjil Hasan Sakib</h1>
 <h3 align="center">A passionate Software Engineer from Bangladesh</h3>
