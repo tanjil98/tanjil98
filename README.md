@@ -18,10 +18,12 @@
   <img src="https://komarev.com/ghpvc/?username=tanjil98&label=Profile%20views&color=0e75b6&style=flat" alt="tanjil98"/>
 </p>
 
-- 🌱 Currently learning ****  
-- 💼 Building **Web developer**, **lead-gen** tools  
-- 📫 Reach me: **98sakib@gmail.com**  
-- ⚡ Fun fact: I love turning ideas into real products
+- 🌱 Currently learning **AI/ML, Next.js, and cloud deployment**  
+- 💼 Skilled in **Full-Stack Development**, **WordPress Customization**, **Lead Generation**, **Data Scraping**, and **UI/UX Design**  
+- 🛠 Proficient in **C++, C#, PHP, Python, JavaScript**, and frameworks like **ASP.NET, Nest.js, Next.js, Node.js, TensorFlow, Keras**  
+- 📫 Reach me at: **98sakib@gmail.com**  
+- ⚡ Fun fact: I enjoy turning complex problems into simple, elegant digital solutions  
+
 
 ---
 
@@ -66,7 +68,7 @@
   DOI: https://doi.org/10.48550/arXiv.2506.09153  
 - **A Systematic Review of Metaverse Environment**: see full list on my ResearchGate →  
   https://www.researchgate.net/profile/Tanjil-Hasan-Sakib
-  - **Metaverse: Fission the architecture** — Accepted in International Journal of Science and Research 2024.  
+- **Metaverse: Fission the architecture** — Accepted in International Journal of Science and Research 2024.  
   DOI: https://doi.org/10.48550/arXiv.2506.09153  
 
 ---
