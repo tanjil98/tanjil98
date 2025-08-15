@@ -19,7 +19,7 @@
 </p>
 
 - 🌱 Currently learning ****  
-- 💼 Building **web apps**, **WordPress sites**, **lead-gen pipelines** & **data scraping** tools  
+- 💼 Building **Web developer**, **lead-gen** tools  
 - 📫 Reach me: **98sakib@gmail.com**  
 - ⚡ Fun fact: I love turning ideas into real products
 
@@ -59,20 +59,22 @@
 
 ---
 
-### 🧪 Selected Publications
+### 🧪 Publications
 - **Small Language Models: Architectures, Techniques, Evaluation, Problems and Future Adaptation** — arXiv.  
   DOI: https://doi.org/10.48550/arXiv.2505.19529  
 - **Real-Time Confidence Detection through Facial & Hand Gestures** — Accepted in MECON 2025.  
   DOI: https://doi.org/10.48550/arXiv.2506.09153  
-- **Metaverse works** (*IJSRA* & review paper): see full list on my ResearchGate →  
+- **A Systematic Review of Metaverse Environment**: see full list on my ResearchGate →  
   https://www.researchgate.net/profile/Tanjil-Hasan-Sakib
+  - **Metaverse: Fission the architecture** — Accepted in International Journal of Science and Research 2024.  
+  DOI: https://doi.org/10.48550/arXiv.2506.09153  
 
 ---
 
 ### 💼 What I Do
 - **Web Development:** ASP.NET / Next.js / Node.js / PostgreSQL, and **WordPress** (themes, plugins, e-commerce, SEO)  
 - **Lead Generation:** Targeted B2B/B2C prospecting & list building  
-- **Data Scraping:** Clean, structured datasets from public sources
+
 
 ---
 
