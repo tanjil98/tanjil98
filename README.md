@@ -1,5 +1,5 @@
 
-![Logo](https://github.com/tanjil98/tanjil98/blob/main/software%20engineer.png)
+![Logo](https://github.com/tanjil98/tanjil98/blob/main/engineer.png)
 
 
 <h1 align="center">
