@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-header.svg" width="100%" alt="Tanjil Hasan Sakib — Full-Stack Engineer and AI/ML Researcher" />
+  <img src="profile-header.svg" width="100%" alt="Tanjil Hasan Sakib — Full-Stack Engineer and AI/ML Researcher" />
 </p>
 
 <p align="center">
