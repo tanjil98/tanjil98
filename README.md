@@ -1,73 +1,100 @@
-<!-- Professional GitHub Profile README for github.com/tanjil98 -->
+<p align="center">
+  <img src="./assets/profile-header.svg" width="100%" alt="Tanjil Hasan Sakib — Full-Stack Engineer and AI/ML Researcher" />
+</p>
 
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:0369A1,100:22D3EE&text=Tanjil%20Hasan%20Sakib&fontColor=FFFFFF&fontSize=42&fontAlignY=35&desc=Full-Stack%20Engineer%20%7C%20AI%2FML%20Researcher&descAlignY=56&descSize=18&animation=fadeIn" alt="Tanjil Hasan Sakib — Full-Stack Engineer and AI/ML Researcher" />
+<p align="center">
+  <a href="mailto:98sakib@gmail.com"><img src="https://img.shields.io/badge/EMAIL-010806?style=for-the-badge&logo=gmail&logoColor=39FF88" alt="Email" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/tanjil-sakib/"><img src="https://img.shields.io/badge/LINKEDIN-010806?style=for-the-badge&logo=linkedin&logoColor=00E5FF" alt="LinkedIn" /></a>&nbsp;
+  <a href="https://about.me/tanjilSakib"><img src="https://img.shields.io/badge/PORTFOLIO-010806?style=for-the-badge&logo=googlechrome&logoColor=39FF88" alt="Portfolio" /></a>&nbsp;
+  <a href="https://orcid.org/0009-0000-9874-868X"><img src="https://img.shields.io/badge/ORCID-010806?style=for-the-badge&logo=orcid&logoColor=A6CE39" alt="ORCID" /></a>
+</p>
 
-  <p>
-    I build reliable web products and practical AI solutions.<br/>
-    Based in Dhaka, Bangladesh 🇧🇩
-  </p>
+## Hello — I'm Tanjil 👋
 
-  <a href="mailto:98sakib@gmail.com"><img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=22D3EE" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/tanjil-sakib/"><img src="https://img.shields.io/badge/LinkedIn-0369A1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://about.me/tanjilSakib"><img src="https://img.shields.io/badge/Portfolio-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://orcid.org/0009-0000-9874-868X"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" /></a>
-</div>
+I am a **full-stack engineer and AI/ML researcher** based in Dhaka, Bangladesh. I enjoy taking a product from a rough idea to a dependable application—designing the interface, building the API, modeling the data and refining the user experience.
 
-## 👨‍💻 About Me
+```text
+CURRENT FOCUS  →  Full-stack product engineering · Applied AI · Cloud deployment
+WORKING WITH   →  ASP.NET · Next.js · NestJS · Node.js · PostgreSQL · MongoDB
+OPEN TO        →  Software engineering · Research · Meaningful collaborations
+```
 
-- 🎓 BSc in Computer Science & Engineering — AIUB
-- 💼 Full-stack development with **ASP.NET, Next.js, Node.js and WordPress**
-- 🤖 Research interests: **AI/ML, computer vision and applied deep learning**
-- 🧩 I turn complex requirements into simple, maintainable digital products
-- 🌱 Currently deepening my skills in **AI/ML, Next.js and cloud deployment**
-- 🤝 Open to software engineering, research and product collaborations
+## Selected Projects
 
-## 🧰 Technology Stack
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📈 Richie Rich Leads</h3>
+      <p>A production-oriented lead submission and management dashboard with secure admin access, duplicate detection, flexible filtering, CSV export and MongoDB-backed storage.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-0F172A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/Express-0F172A?style=flat-square&logo=express&logoColor=white" alt="Express" />
+        <img src="https://img.shields.io/badge/MongoDB-0F172A?style=flat-square&logo=mongodb&logoColor=47A248" alt="MongoDB" />
+      </p>
+      <a href="https://github.com/tanjil98/richie-rich-leads"><strong>Explore repository →</strong></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🍽️ Local Food Lovers Network</h3>
+      <p>A full-stack community platform where users discover local food, publish and manage reviews, rate dishes and save favorites using protected routes and Firebase authentication.</p>
+      <p>
+        <img src="https://img.shields.io/badge/MERN-0F172A?style=flat-square&logo=mongodb&logoColor=47A248" alt="MERN" />
+        <img src="https://img.shields.io/badge/Firebase-0F172A?style=flat-square&logo=firebase&logoColor=FFCA28" alt="Firebase" />
+        <img src="https://img.shields.io/badge/Tailwind-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8" alt="Tailwind CSS" />
+      </p>
+      <a href="https://food-lover-d4878.web.app"><strong>Live demo ↗</strong></a> · <a href="https://github.com/tanjil98/Local-Food-Lovers-Network-main"><strong>Source →</strong></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛒 E-commerce Management System</h3>
+      <p>A full-stack administration system for managing business information and manager accounts, built with a typed NestJS/Next.js architecture, PostgreSQL and JWT authentication.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-0F172A?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/NestJS-0F172A?style=flat-square&logo=nestjs&logoColor=E0234E" alt="NestJS" />
+        <img src="https://img.shields.io/badge/PostgreSQL-0F172A?style=flat-square&logo=postgresql&logoColor=60A5FA" alt="PostgreSQL" />
+      </p>
+      <a href="https://github.com/tanjil98/Advanced-Web-Tech-Full-Stack-Nest-Next--main"><strong>Explore repository →</strong></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🚌 P-Ticket Booking</h3>
+      <p>A responsive online bus-ticket experience with visual seat selection, real-time price calculation, coupon rules, validation and a clear booking confirmation flow.</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-0F172A?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/Tailwind-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8" alt="Tailwind CSS" />
+        <img src="https://img.shields.io/badge/DaisyUI-0F172A?style=flat-square&logo=daisyui&logoColor=5A0EF8" alt="DaisyUI" />
+      </p>
+      <a href="https://github.com/tanjil98/Online-Booking-System"><strong>Explore repository →</strong></a>
+    </td>
+  </tr>
+</table>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,python,js,ts,react,nextjs,nodejs,postgres,mysql,wordpress,tensorflow,opencv,git,github,docker&perline=9" alt="C++, C Sharp, .NET, Python, JavaScript, TypeScript, React, Next.js, Node.js, PostgreSQL, MySQL, WordPress, TensorFlow, OpenCV, Git, GitHub and Docker" />
-</div>
+<p align="right"><a href="https://github.com/tanjil98?tab=repositories"><strong>View all repositories →</strong></a></p>
 
-## 🚀 Featured Work
+## Engineering Toolkit
 
-| Project | Focus | Links |
-|---|---|---|
-| **Ecommerce** | E-commerce web application | [Repository](https://github.com/tanjil98/Ecommerce) |
-| **Sakib Landing Launchpad** | Responsive landing-page template | [Repository](https://github.com/tanjil98/sakib-landing-launchpad) |
-| **Faugei** | Front-end web project | [Repository](https://github.com/tanjil98/Faugei) |
+| Area | Technologies |
+|---|---|
+| **Frontend** | React, Next.js, JavaScript, TypeScript, Tailwind CSS |
+| **Backend** | Node.js, Express, NestJS, ASP.NET Core, REST APIs |
+| **Data** | PostgreSQL, MongoDB, MySQL |
+| **AI & Vision** | Python, TensorFlow, OpenCV, applied deep learning |
+| **Workflow** | Git, GitHub, Docker, Firebase, Vercel, Render |
 
-> Replace the descriptions above with each project's strongest measurable result, technology stack and live-demo link.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,python,js,ts,react,nextjs,nestjs,nodejs,express,postgres,mongodb,mysql,tensorflow,opencv,git,github,docker,firebase&perline=10" alt="Technology icons" />
+</p>
 
-## 🔬 Selected Publications
+## Research Notes
 
-- **Small Language Models: Architectures, Techniques, Evaluation, Problems and Future Adaptation** — [DOI](https://doi.org/10.48550/arXiv.2505.19529)
-- **Real-Time Confidence Detection through Facial & Hand Gestures** — Accepted at MECON 2025 — [DOI](https://doi.org/10.48550/arXiv.2506.09153)
-- **Metaverse: Fission the Architecture** — International Journal of Science and Research, 2024 — [DOI](https://doi.org/10.48550/arXiv.2506.09153)
-
-## 📊 GitHub Overview
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=tanjil98&show_icons=true&hide_border=true&bg_color=0F172A&title_color=22D3EE&text_color=CBD5E1&icon_color=38BDF8&rank_icon=github" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=tanjil98&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=0369A1&text_color=334155&icon_color=0891B2&rank_icon=github" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=tanjil98&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=0369A1&text_color=334155&icon_color=0891B2&rank_icon=github" alt="Tanjil's GitHub statistics" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tanjil98&layout=compact&hide_border=true&bg_color=0F172A&title_color=22D3EE&text_color=CBD5E1&langs_count=8" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tanjil98&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=0369A1&text_color=334155&langs_count=8" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanjil98&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=0369A1&text_color=334155&langs_count=8" alt="Most-used languages" />
-  </picture>
-</div>
-
-<div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=tanjil98&bg_color=0F172A&color=CBD5E1&line=22D3EE&point=38BDF8&area=true&hide_border=true" alt="Tanjil's GitHub contribution graph" />
-</div>
+- **Small Language Models:** architectures, techniques, evaluation, problems and future adaptation — [arXiv](https://doi.org/10.48550/arXiv.2505.19529)
+- **Real-Time Confidence Detection through Facial & Hand Gestures** — accepted at MECON 2025 — [arXiv](https://doi.org/10.48550/arXiv.2506.09153)
+- My broader research identity and publication record are available through [ORCID](https://orcid.org/0009-0000-9874-868X).
 
 ---
 
-<div align="center">
-  <strong>Let’s build something useful together.</strong><br/>
-  <sub>Thanks for visiting — feel free to explore my repositories or get in touch.</sub>
-</div>
-
+<p align="center">
+  <strong>Good software should feel simple—even when the engineering behind it is not.</strong><br/><br/>
+  <a href="mailto:98sakib@gmail.com">Start a conversation</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/tanjil98?tab=repositories">Explore my work</a>
+</p>
