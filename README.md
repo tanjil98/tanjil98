@@ -2,90 +2,76 @@
 ![Logo](https://github.com/tanjil98/tanjil98/blob/main/engineer.png)
 
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=600&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Tanjil+Hasan+Sakib;Full-Stack+Developer+%7C+AI%2FML+Researcher;WordPress+%7C+Data+Scraping+%7C+Lead+Generation" alt="Typing SVG"/>
-  </a>
-</h1>
+<!-- Professional GitHub Profile README for github.com/tanjil98 -->
 
-<p align="center">
-  <b>BSc in CSE (AIUB)</b> • Full-Stack ( Next.js, Node.js, ASP.NET) • WordPress • AI/ML  • Data Scraping
-</p>
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:0369A1,100:22D3EE&text=Tanjil%20Hasan%20Sakib&fontColor=FFFFFF&fontSize=42&fontAlignY=35&desc=Full-Stack%20Engineer%20%7C%20AI%2FML%20Researcher&descAlignY=56&descSize=18&animation=fadeIn" alt="Tanjil Hasan Sakib — Full-Stack Engineer and AI/ML Researcher" />
 
-<img align="right" alt="coding" width="360" src="https://media3.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif">
+  <p>
+    I build reliable web products and practical AI solutions.<br/>
+    Based in Dhaka, Bangladesh 🇧🇩
+  </p>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=tanjil98&label=Profile%20views&color=0e75b6&style=flat" alt="tanjil98"/>
-</p>
+  <a href="mailto:98sakib@gmail.com"><img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=22D3EE" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/tanjil-sakib/"><img src="https://img.shields.io/badge/LinkedIn-0369A1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://about.me/tanjilSakib"><img src="https://img.shields.io/badge/Portfolio-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://orcid.org/0009-0000-9874-868X"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" /></a>
+</div>
 
-- 🌱 Currently learning **AI/ML, Next.js, and cloud deployment**  
-- 💼 Skilled in **Full-Stack Development**, **WordPress Customization**, **Lead Generation**, **Data Scraping**, and **UI/UX Design**  
-- 🛠 Proficient in **C++, C#, PHP, Python, JavaScript**, and frameworks like **ASP.NET, Nest.js, Next.js, Node.js, TensorFlow, Keras**  
-- 📫 Reach me at: **98sakib@gmail.com**  
-- ⚡ Fun fact: I enjoy turning complex problems into simple, elegant digital solutions  
+## 👨‍💻 About Me
 
+- 🎓 BSc in Computer Science & Engineering — AIUB
+- 💼 Full-stack development with **ASP.NET, Next.js, Node.js and WordPress**
+- 🤖 Research interests: **AI/ML, computer vision and applied deep learning**
+- 🧩 I turn complex requirements into simple, maintainable digital products
+- 🌱 Currently deepening my skills in **AI/ML, Next.js and cloud deployment**
+- 🤝 Open to software engineering, research and product collaborations
 
----
+## 🧰 Technology Stack
 
-### 🔗 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-tanjil--sakib-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanjil-sakib/)
-[![Facebook](https://img.shields.io/badge/Facebook-sakib789-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/sakib789)
-[![Portfolio](https://img.shields.io/badge/Portfolio-bold.pro-111?logo=vercel&logoColor=white)](https://bold.pro/my/tanjilhasan-sakib-241001061543)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-00CCBB?logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Tanjil-Hasan-Sakib)
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0000--9874--868X-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0000-9874-868X)
-[![Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=iZXezRoAAAAJ&hl=en&authuser=1)
-[![Fiverr](https://img.shields.io/badge/Fiverr-Open%20for%20Work-1DBF73?logo=fiverr&logoColor=white)](https://www.fiverr.com/s/gD1jq8L)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,python,js,ts,react,nextjs,nodejs,postgres,mysql,wordpress,tensorflow,opencv,git,github,docker&perline=9" alt="C++, C Sharp, .NET, Python, JavaScript, TypeScript, React, Next.js, Node.js, PostgreSQL, MySQL, WordPress, TensorFlow, OpenCV, Git, GitHub and Docker" />
+</div>
 
----
+## 🚀 Featured Work
 
-### 🧰 Languages & Tools
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?logo=dotnet&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JS-F7DF1E?logo=javascript&logoColor=000)
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET_Core-512BD4?logo=dotnet&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?logo=adobephotoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?logo=adobeillustrator&logoColor=white)
+| Project | Focus | Links |
+|---|---|---|
+| **Ecommerce** | E-commerce web application | [Repository](https://github.com/tanjil98/Ecommerce) |
+| **Sakib Landing Launchpad** | Responsive landing-page template | [Repository](https://github.com/tanjil98/sakib-landing-launchpad) |
+| **Faugei** | Front-end web project | [Repository](https://github.com/tanjil98/Faugei) |
 
----
+> Replace the descriptions above with each project's strongest measurable result, technology stack and live-demo link.
 
-### 🧪 Publications
-- **Small Language Models: Architectures, Techniques, Evaluation, Problems and Future Adaptation** — arXiv.  
-  DOI: https://doi.org/10.48550/arXiv.2505.19529  
-- **Real-Time Confidence Detection through Facial & Hand Gestures** — Accepted in MECON 2025.  
-  DOI: https://doi.org/10.48550/arXiv.2506.09153  
-- **A Systematic Review of Metaverse Environment**: see full list on my ResearchGate →  
-  https://www.researchgate.net/profile/Tanjil-Hasan-Sakib
-- **Metaverse: Fission the architecture** — Accepted in International Journal of Science and Research 2024.  
-  DOI: https://doi.org/10.48550/arXiv.2506.09153  
+## 🔬 Selected Publications
+
+- **Small Language Models: Architectures, Techniques, Evaluation, Problems and Future Adaptation** — [DOI](https://doi.org/10.48550/arXiv.2505.19529)
+- **Real-Time Confidence Detection through Facial & Hand Gestures** — Accepted at MECON 2025 — [DOI](https://doi.org/10.48550/arXiv.2506.09153)
+- **Metaverse: Fission the Architecture** — International Journal of Science and Research, 2024 — [DOI](https://doi.org/10.48550/arXiv.2506.09153)
+
+## 📊 GitHub Overview
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=tanjil98&show_icons=true&hide_border=true&bg_color=0F172A&title_color=22D3EE&text_color=CBD5E1&icon_color=38BDF8&rank_icon=github" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=tanjil98&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=0369A1&text_color=334155&icon_color=0891B2&rank_icon=github" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=tanjil98&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=0369A1&text_color=334155&icon_color=0891B2&rank_icon=github" alt="Tanjil's GitHub statistics" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tanjil98&layout=compact&hide_border=true&bg_color=0F172A&title_color=22D3EE&text_color=CBD5E1&langs_count=8" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tanjil98&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=0369A1&text_color=334155&langs_count=8" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanjil98&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=0369A1&text_color=334155&langs_count=8" alt="Most-used languages" />
+  </picture>
+</div>
+
+<div align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=tanjil98&bg_color=0F172A&color=CBD5E1&line=22D3EE&point=38BDF8&area=true&hide_border=true" alt="Tanjil's GitHub contribution graph" />
+</div>
 
 ---
 
-### 💼 What I Do
-- **Web Development:** ASP.NET / Next.js / Node.js / PostgreSQL, and **WordPress** (themes, plugins, e-commerce, SEO)  
-- **Lead Generation:** Targeted B2B/B2C prospecting & list building  
-
-
----
-
-### 📊 GitHub Stats
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=tanjil98&show_icons=true&hide_border=false" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanjil98&layout=compact&hide_border=false" />
-</p>
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=tanjil98" />
-</p>
+<div align="center">
+  <strong>Let’s build something useful together.</strong><br/>
+  <sub>Thanks for visiting — feel free to explore my repositories or get in touch.</sub>
+</div>
 
