@@ -1,7 +1,3 @@
-
-![Logo](https://github.com/tanjil98/tanjil98/blob/main/engineer.png)
-
-
 <!-- Professional GitHub Profile README for github.com/tanjil98 -->
 
 <div align="center">
